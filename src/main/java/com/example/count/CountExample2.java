@@ -1,6 +1,5 @@
 package com.example.count;
 
-import com.example.annotations.NotThreadSafe;
 import com.example.annotations.ThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
